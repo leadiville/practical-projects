@@ -1,0 +1,13 @@
+{
+    "name": "Links Grabber",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "This is an extension that grabs a url from the tab, for easy access anytime, while browsing through websites or profiles :) ",
+    "action": {
+        "default_popup": "tutorials.html",
+        "default_icon": "icons8-extension-64.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

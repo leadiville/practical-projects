@@ -1,0 +1,43 @@
+body {
+    padding: 0.3em;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    width: 400px;
+}
+button {
+    color: white;
+    background-color: #5f9341;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: 1px solid #5f9341;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #6b9c4e;
+}
+article {
+    word-wrap: break-word;
+}
+body {
+    border: 1px solid #5f9341;
+}
+.my-links {
+    margin: 20px 5px;
+    font-size: 12px;
+    list-style-type: disc;
+    color: #5f9341;
+    padding: 0.3em;
+}
+.my-links li {
+    margin: 2px 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.del-btn- {
+    color: white;
+    background-color: red;
+}
