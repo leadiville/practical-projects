@@ -5,7 +5,7 @@
 - the extension is suppose to save urls and also help easily grab a url from your chrome tab and save it for later use.
 - each button has their function so, depending on what task you want, click the buttons.
 - it's really easy and fun to use. simple but interactive design too.
-
+- the delete all button only works when double clicked
 - 🌱 I’m currently learning **javascript (JSON)**
 
 <h3 align="left">Connect with me:</h3>
